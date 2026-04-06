@@ -1,31 +1,35 @@
 import { FadeIn } from '../FadeIn';
+import bluegridentImage from '@/images/bluegrident-image.png';
+import ayewaPortfolio from '@/images/ayewa-portfolio.png';
+import dataveneImage from '@/images/datavene.png';
+import brandProImage from '@/images/brandPro.png';
 
 const projects = [
   {
     title: 'Bluegrid Entertainment',
     description: 'A landing page for a music distribution company that guides visitors into a dashboard where they can post, update, or delete songs, albums, and tracks. Includes an admin dashboard with analytics and tools to block users when needed.',
-    image: '/src/images/bluegrident-image.png',
+    image: bluegridentImage,
     tags: ['React.js', 'JavaScript', 'Tailwind', 'MongoDB', 'Express', 'Recharts'],
     links: { github: 'https://github.com/forxbit/bluegrid-ent-landing', live: 'https://bluegrident.com/' }
   },
   {
     title: 'Blessing Ayewa - Data analytics engineer',
     description: 'The visitor-facing portfolio and blog: project highlights and educational articles—built so the client can present work and publish long-form content in one place.',
-    image: '/src/images/ayewa-portfolio.png',
+    image: ayewaPortfolio,
     tags: ['React.js', 'JavaScript', 'Tailwind', 'MongoDB', 'Express'],
     links: { github: 'https://github.com/Tommycity/DataVene', live: 'blessingayewa.com' }
   },
   {
     title: 'DataVene',
     description: 'An admin dashboard for controlling the blog: draft, edit, publish, and manage posts from one place—built to keep content workflows fast and organized.',
-    image: '/src/images/datavene.png',
+    image: dataveneImage,
     tags: ['React.js', 'JavaScript', 'Tailwind', 'MongoDB', 'Express'],
     links: { github: 'https://github.com/Tommycity/DataVene', live: 'blessingayewa.com' }
   },
   {
     title: 'BrandProExhibiton',
     description: 'A marketing site for a branding company, presenting services and work in a clear, professional layout.',
-    image: '/src/images/brandPro.png',
+    image: brandProImage,
     tags: ['React.js', 'JavaScript', 'Tailwind', 'MongoDB', 'Express'],
     links: { github: 'https://github.com/brandpro2025/brandpro-fontend', live: 'https://brandpro.vercel.app/' }
   }

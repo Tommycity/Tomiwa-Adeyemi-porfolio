@@ -1,4 +1,5 @@
 import { FadeIn } from '../FadeIn';
+import profilePhoto from '@/images/Josh1 - Copy.jpg';
 
 export function About() {
   return (
@@ -30,7 +31,7 @@ export function About() {
               <div className="absolute -inset-1 bg-gradient-to-r from-indigo-500 to-purple-500 rounded-2xl blur opacity-25 group-hover:opacity-50 transition duration-1000 group-hover:duration-200" />
               <div className="relative aspect-square md:aspect-[4/5] rounded-2xl overflow-hidden border border-white/10 bg-zinc-900">
                 <img 
-                  src="/src/images/Josh1 - Copy.jpg" 
+                  src={profilePhoto} 
                   alt="Code on screen" 
                   className="w-full h-full object-cover opacity-80 mix-blend-luminosity hover:mix-blend-normal transition-all duration-700 hover:scale-105"
                 />
