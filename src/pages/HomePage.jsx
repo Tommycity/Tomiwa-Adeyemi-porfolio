@@ -24,7 +24,7 @@ export default function HomePage() {
       </main>
 
       <footer className="py-8 text-center text-zinc-600 text-sm border-t border-white/5 bg-zinc-950 relative z-10">
-        <p>© {new Date().getFullYear()} Fullstack Engineer. Crafted with React & Tailwind.</p>
+        <p>© {new Date().getFullYear()} Tomiwa Adeyemi - Fullstack Engineer. Crafted with React & Tailwind.</p>
       </footer>
     </div>
   );

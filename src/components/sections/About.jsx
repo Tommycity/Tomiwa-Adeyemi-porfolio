@@ -18,7 +18,7 @@ export function About() {
           <FadeIn
             direction="right"
             delay={0.2}
-            className="space-y-6 text-zinc-400 font-light leading-relaxed md:text-[25px]"
+            className="space-y-6 text-zinc-400 font-light leading-relaxed md:text-[22px]"
           >
             <p>
               My journey in software engineering started with a simple curiosity
