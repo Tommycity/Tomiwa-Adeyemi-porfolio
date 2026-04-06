@@ -4,7 +4,7 @@ import profilePhoto from "@/images/Josh1 - Copy.jpg";
 export function About() {
   return (
     <section id="about" className="py-32 relative">
-      <div className="container max-w-6xl lg:max-w-7xl 2xl:max-w-[90rem] mx-auto px-6">
+      <div className="container max-w-6xl lg:max-w-7xl mx-auto px-6">
         <FadeIn>
           <h2 className="text-sm md:text-base font-semibold text-indigo-400 tracking-widest uppercase mb-3">
             About Me

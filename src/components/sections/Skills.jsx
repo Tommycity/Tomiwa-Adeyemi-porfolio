@@ -14,7 +14,7 @@ const skills = [
 export function Skills() {
   return (
     <section id="skills" className="py-32 relative bg-zinc-900/30 border-y border-white/5">
-      <div className="container max-w-6xl lg:max-w-7xl 2xl:max-w-[90rem] mx-auto px-6">
+      <div className="container max-w-6xl lg:max-w-7xl mx-auto px-6">
         <div className="flex flex-col md:flex-row gap-12 justify-between mb-16">
           <FadeIn className="md:w-1/3">
             <h2 className="text-sm font-semibold text-indigo-400 tracking-widest uppercase mb-3">Core Arsenal</h2>

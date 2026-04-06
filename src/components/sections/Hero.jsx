@@ -8,7 +8,7 @@ export function Hero() {
       <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[800px] bg-indigo-500/10 rounded-full blur-[120px] pointer-events-none" />
       <div className="absolute top-0 right-0 w-[500px] h-[500px] bg-purple-500/10 rounded-full blur-[100px] pointer-events-none" />
       
-      <div className="container max-w-6xl lg:max-w-7xl xl:max-w-[90rem] mx-auto px-6 relative z-10 flex flex-col items-center text-center">
+      <div className="container max-w-6xl lg:max-w-7xl mx-auto px-6 relative z-10 flex flex-col items-center text-center">
         <FadeIn delay={0.1}>
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/5 border border-white/10 text-xs text-zinc-300 mb-8 backdrop-blur-sm">
             <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
