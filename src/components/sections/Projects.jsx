@@ -38,7 +38,7 @@ const projects = [
 export function Projects() {
   return (
     <section id="projects" className="py-32 relative">
-      <div className="container max-w-6xl lg:max-w-7xl xl:max-w-[90rem] mx-auto px-6">
+      <div className="container max-w-6xl lg:max-w-7xl 2xl:max-w-[90rem] mx-auto px-6">
         <FadeIn className="mb-16">
           <h2 className="text-sm font-semibold text-indigo-400 tracking-widest uppercase mb-3">Selected Work</h2>
           <h3 className="text-3xl md:text-5xl font-medium tracking-tight text-zinc-100">

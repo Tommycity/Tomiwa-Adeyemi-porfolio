@@ -79,7 +79,7 @@ export function Contact() {
       {/* Background Glow */}
       <div className="absolute bottom-0 left-1/2 -translate-x-1/2 w-[600px] h-[600px] bg-indigo-500/5 rounded-full blur-[100px] pointer-events-none" />
 
-      <div className="container max-w-6xl lg:max-w-7xl xl:max-w-[90rem] mx-auto px-6 relative z-10">
+      <div className="container max-w-6xl lg:max-w-7xl 2xl:max-w-[90rem] mx-auto px-6 relative z-10">
         <div className="grid w-full grid-cols-1 gap-12 md:grid-cols-2 md:gap-16 md:items-start">
           <FadeIn className="w-full min-w-0 space-y-8">
             <div>
