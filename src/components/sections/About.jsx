@@ -21,20 +21,22 @@ export function About() {
             className="space-y-6 text-zinc-400 font-light leading-relaxed md:text-[22px]"
           >
             <p>
-              My journey in software engineering started with a simple curiosity
-              about how things work on the web. Today, I'm a fullstack developer
-              focused on creating cohesive, end-to-end user experiences.
+              I build and own full product surfaces end to end—from database
+              schema and APIs to polished React and Next.js front ends. Clients
+              work with someone who has shipped real systems, thinks in
+              trade-offs, and keeps quality high under deadline pressure.
             </p>
             <p>
-              I thrive in the intersection of design and engineering. Whether
-              it's architecting a robust MongoDB database, setting up a secure
-              Express/Node server, or pushing the boundaries of UI with React
-              and Next.js, I care deeply about the details.
+              My strength is turning ambiguity into a clear architecture: secure
+              Express and Node services, well-modeled MongoDB data layers, and
+              interfaces that stay fast and maintainable as they grow. I
+              prioritize observability, security, and TypeScript across the stack
+              so teams spend less time firefighting and more time delivering.
             </p>
             <p>
-              When I'm not writing TypeScript, you can find me exploring new
-              design trends, contributing to open-source, or optimizing my
-              development workflow.
+              Beyond writing code, I mentor where it helps, review with rigor,
+              and stay current with the ecosystem—so every engagement benefits
+              from deliberate engineering, not guesswork.
             </p>
           </FadeIn>
 
