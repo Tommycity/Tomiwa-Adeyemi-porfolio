@@ -73,7 +73,7 @@ export function Projects() {
                   ))}
                 </div>
                 <div className="flex items-center gap-4 pt-4">
-                  <a href={project.links.github} className="text-zinc-400 hover:text-white transition-colors flex items-center gap-2 text-sm font-medium">
+                  <a href={project.links.github} target="_blank" className="text-zinc-400 hover:text-white transition-colors flex items-center gap-2 text-sm font-medium">
                     <iconify-icon icon="simple-icons:github" class="text-lg" />
                     Github
                   </a>
