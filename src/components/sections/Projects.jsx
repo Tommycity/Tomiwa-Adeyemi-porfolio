@@ -17,14 +17,14 @@ const projects = [
     description: 'The visitor-facing portfolio and blog: project highlights and educational articles—built so the client can present work and publish long-form content in one place.',
     image: ayewaPortfolio,
     tags: ['React.js', 'JavaScript', 'Tailwind', 'MongoDB', 'Express'],
-    links: { github: 'https://github.com/Tommycity/DataVene', live: 'blessingayewa.com' }
+    links: { github: 'https://github.com/Tommycity/DataVene', live: 'https://blessingayewa.com' }
   },
   {
     title: 'DataVene',
     description: 'An admin dashboard for controlling the blog: draft, edit, publish, and manage posts from one place—built to keep content workflows fast and organized.',
     image: dataveneImage,
     tags: ['React.js', 'JavaScript', 'Tailwind', 'MongoDB', 'Express'],
-    links: { github: 'https://github.com/Tommycity/DataVene', live: 'blessingayewa.com' }
+    links: { github: 'https://github.com/Tommycity/DataVene', live: 'https://blessingayewa.com' }
   },
   {
     title: 'BrandProExhibiton',
@@ -77,7 +77,7 @@ export function Projects() {
                     <iconify-icon icon="simple-icons:github" class="text-lg" />
                     Github
                   </a>
-                  <a href={project.links.live} className="text-zinc-400 hover:text-white transition-colors flex items-center gap-2 text-sm font-medium">
+                  <a href={project.links.live} target="_blank" className="text-zinc-400 hover:text-white transition-colors flex items-center gap-2 text-sm font-medium">
                     <iconify-icon icon="solar:global-linear" class="text-lg" />
                     Live Site
                   </a>
