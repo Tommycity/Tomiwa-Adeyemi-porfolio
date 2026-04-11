@@ -79,7 +79,7 @@ export function Projects() {
                   </a>
                   <a href={project.links.live} target="_blank" className="text-zinc-400 hover:text-white transition-colors flex items-center gap-2 text-sm font-medium">
                     <iconify-icon icon="solar:global-linear" class="text-lg" />
-                    Live Site
+                    Live Sites
                   </a>
                 </div>
               </FadeIn>
