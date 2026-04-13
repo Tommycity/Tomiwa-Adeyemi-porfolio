@@ -19,7 +19,7 @@ export function Skills() {
           <FadeIn className="md:w-1/3">
             <h2 className="text-sm font-semibold text-indigo-400 tracking-widest uppercase mb-3">Core Arsenal</h2>
             <h3 className="text-3xl md:text-5xl font-medium tracking-tight text-zinc-100">
-              Tools I use to build the future
+              Tools I use to build the future.
             </h3>
           </FadeIn>
           
