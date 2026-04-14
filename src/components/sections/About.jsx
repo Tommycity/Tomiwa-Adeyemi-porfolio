@@ -30,13 +30,14 @@ export function About() {
               My strength is turning ambiguity into a clear architecture: secure
               Express and Node services, well-modeled MongoDB data layers, and
               interfaces that stay fast and maintainable as they grow. I
-              prioritize observability, security, and TypeScript across the stack
-              so teams spend less time firefighting and more time delivering.
+              prioritize observability, security, and TypeScript across the
+              stack so teams spend less time firefighting and more time
+              delivering.
             </p>
             <p>
               Beyond writing code, I mentor where it helps, review with rigor,
               and stay current with the ecosystem—so every engagement benefits
-              from deliberate engineering, not guesswork
+              from deliberate engineering, not guesswork.
             </p>
           </FadeIn>
 
