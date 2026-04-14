@@ -36,7 +36,7 @@ export function About() {
             <p>
               Beyond writing code, I mentor where it helps, review with rigor,
               and stay current with the ecosystem—so every engagement benefits
-              from deliberate engineering, not guesswork.
+              from deliberate engineering, not guesswork
             </p>
           </FadeIn>
 
